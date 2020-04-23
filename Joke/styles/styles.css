@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+}
+body{
+    background: url('../img/colors2.jpg');       
+    background-size: cover; 
+    max-width: 3000px;
+    max-height: 2000px;
+}
+.container{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;    
+    vertical-align: middle;
+    height: 700px;
+}
+#jokeButton{
+    width: 260px;
+    height: 45px;     
+    font-size: 1.2rem;  
+    align-self: center;     
+}
+#joke{
+    width: 700px;
+    height: auto;     
+    font-size: 1.2rem;  
+    align-self: center;     
+}
