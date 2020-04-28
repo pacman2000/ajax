@@ -22,7 +22,7 @@ body{
 }
 #joke{
     width: 700px;
-    height: auto;     
+    height: 110px;     
     font-size: 1.2rem;  
     align-self: center;     
 }
